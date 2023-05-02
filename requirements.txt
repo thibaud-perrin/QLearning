@@ -1,0 +1,5 @@
+numpy
+jupyterlab
+ipython
+nodejs-bin
+jupyter_contrib_nbextensions
